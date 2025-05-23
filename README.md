@@ -19,12 +19,12 @@ Here are some ideas to get you started:
   
 # Hello, I'm Amish! 👋 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%26+Backend+Developer;Python+%7C+Go+%7C+Node.js;Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ## 👨‍💻 About Me
 DevOps enthusiast and backend developer, passionate about building scalable, automated infrastructure. I loved in bridging the gap between development and operations through efficient, maintainable solutions.
+
 Currently exploring DevOps realm and backend technologies.
 
 ## 🛠️ Technology
@@ -64,7 +64,7 @@ Currently exploring DevOps realm and backend technologies.
 
 
 ## 🌟 Highlights
-- 🔭 Currently exploring cloud-native technologies        
+- 🔭 Currently exploring cloud technologies        
 - 🌱 Focusing on Infrastructure as Code and GitOps practices
 - ⚡ Passionate about automation and continuous improvement
 - 🤝 Open to collaborating on DevOps and backend projects
