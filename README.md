@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 DevOps enthusiast and backend developer, passionate about building scalable, automated infrastructure. I loved in bridging the gap between development and operations through efficient, maintainable solutions.
+Currently exploring DevOps realm and backend technologies.
 
 ## 🛠️ Technology
 
