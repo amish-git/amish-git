@@ -14,67 +14,78 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there! I'm Amish 👋</h1>
-<h3 align="center">🚀 DevOps Engineer Enthusiast & Backend Developer</h3>
+
+<div align="center">
+  
+# Hello, I'm Amish! 👋 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%26+Backend+Developer;Python+%7C+Go+%7C+Node.js;Infrastructure+as+Code+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+## 👨‍💻 About Me
+DevOps enthusiast and backend developer, passionate about building scalable, automated infrastructure. I loved in bridging the gap between development and operations through efficient, maintainable solutions.
+
+## 🛠️ Technology
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+%7C+Backend+Engineering;Python+%7C+Go+%7C+Node.js;Automation+%7C+Infrastructure+as+Code" alt="Typing SVG" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amish-git&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amish-git&theme=tokyonight&hide_border=true" />
 </p>
 
-### 👨‍💻 About Me
+<!-- Activity Graph -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=amish-git&theme=tokyo-night&hide_border=true" width="100%"/> -->
 
-I'm passionate about building and automating scalable infrastructure. With a focus on DevOps practices and backend development, I love creating efficient solutions that bridge the gap between development and operations.
+## 💼 Featured Projects
 
-### 🛠️ Tech Stack
 
-**Languages & Frameworks:**
-- Python (Primary)
-- Go
-- Node.js
-- JavaScript/React
+## 🌟 Highlights
+- 🔭 Currently exploring cloud-native technologies        
+- 🌱 Focusing on Infrastructure as Code and GitOps practices
+- ⚡ Passionate about automation and continuous improvement
+- 🤝 Open to collaborating on DevOps and backend projects
 
-**DevOps & Cloud Tools:**
+## 📫 Connect With Me
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-</p>
-
-**CI/CD & Version Control:**
-- GitHub Actions
-- Jenkins
-- GitLab CI
-- Git
-
-**Monitoring & Logging:**
-- Prometheus
-- Grafana
-- ELK Stack
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amish-git&show_icons=true&theme=tokyonight" alt="amish-git's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amish-git&theme=tokyonight" alt="amish-git's streak stats" />
-</p>
-
-### 🤝 Let's Connect!
-
-<p align="left">
-<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amish-linkedin" height="30" width="40" /></a>
+  <a href="https://github.com/amish-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amish-thapa-405516268/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
-<p align="center">🔭 Currently exploring new technologies in the DevOps space</p>
-<p align="center">🌱 Always learning, always automating!</p>
+
+<div align="center">
+  <b>🚀 Always coding, always deploying!</b>
+  
+ <!-- ![Profile Views](https://komarev.com/ghpvc/?username=amish-git&color=blueviolet&style=flat-square) -->        
+</div>
 
 <!--
-Fun fact: This README is automatically updated every day!
-Last updated: 2025-05-23 03:31:29 UTC
+Last updated: 2025-05-23 03:52:03 UTC
 -->
